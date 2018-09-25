@@ -4,9 +4,7 @@
   "description": "A web project that allows you to find partners and partners for entrepreneurs",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ./bin/www",
-    "heroku-postbuild": "cd front/app-react && npm install && npm run build && npm start"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
